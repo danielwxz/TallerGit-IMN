@@ -116,6 +116,12 @@ git diff numero_commit numero_commit
 
 git branch -d cervantes
 
+# para descartar los últimos 3 commits:
+
+git reset --hard HEAD~3
+
+La diferencia entre checkout y reset es que en éste último se descartan las revisiones, mientras que con checkout se preservan.
+
 
 ## Bibliografía útil:
 
