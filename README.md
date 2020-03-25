@@ -59,15 +59,21 @@ Vamos a crear varios documentos y carpetas
 git checkout soto
 
 touch archivosPy.txt
+
 touch codigo.py
+
 mkdir test 
+
 touch test/programa.py
 
 git checkout cervantes
 
 touch archivosR.txt
+
 touch codigo.R
+
 mkdir test 
+
 touch test/programa.R
 
 # Actualizar la rama soto en el origen:
