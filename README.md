@@ -1,7 +1,9 @@
 # TallerGit-IMN
 
 Practica de uno de git y GitHub en el IMN
+
 Fecha: 25 de marzo 2020
+
 Taller virtual.
 
 # Explicación del funcionamiento de git y GitHub
