@@ -14,7 +14,7 @@ git config --global user.name "Daniel Soto"
 git config --global user.email "<daniel.wxz@gmail.com>"
 
 # Clonar un repositorio:
-git clone https://github.com/danielwxz/TallerGit.git
+git clone https://github.com/danielwxz/TallerGit-IMN.git
 
 # Comandos de información
 
