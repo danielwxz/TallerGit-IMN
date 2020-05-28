@@ -122,6 +122,18 @@ git reset --hard HEAD~3
 
 La diferencia entre checkout y reset es que en éste último se descartan las revisiones, mientras que con checkout se preservan.
 
+# Ignorar archivos y carpetas
+Se debe crear el archivo ".gitignore" en la raiz del programa
+Ahí se agregan filas en un editor de textos de la siguiente forma:
+
+carpeta/archivo.py
+carpeta2/* #Ignora toda la carpeta
+
+Esto hay que hacerlo antes de mandar el git push
+
+Para ver que archivos ignora el sistema:
+
+git check-ignore **/*
 
 ## Bibliografía útil:
 
